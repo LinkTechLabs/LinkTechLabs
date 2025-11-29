@@ -1,78 +1,122 @@
-# Hello, I'm Menelik (Link)
-<a href="https://linkedin.com/in/menelikr"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://resume.linktech.studio"><img src="https://img.shields.io/badge/-Resume-FF6B6B?&style=for-the-badge&logo=read-the-docs&logoColor=white" /></a>
+<div align="center">
 
+# Hey, I'm Menelik 👋
 
+### `Cloud` · `Security` · `AI` · `Apps`
 
-I am a passionate cybersecurity professional with a deep interest in cloud security, red teaming, penetration testing, and trading bot development. My journey has taken me through rigorous certifications and hands-on projects, building expertise in both cybersecurity and tech automation. Here, you'll find projects that explore everything from AI-driven threat analysis to algorithmic trading systems.
+*Aspiring cloud engineer with a strong cybersecurity foundation, exploring AI, data analysis, and full-stack development.*  
+*I design systems that are secure by default and built to scale.*
 
-📜 Certifications: CYSA+, Project+, Security+, and more
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/menelikr)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-FF6B6B?style=for-the-badge&logo=safari&logoColor=white)](https://resume.linktech.studio)
+[![Medium](https://img.shields.io/badge/-Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@menox)
 
-🔍 Focus Areas: Cloud security, cybersecurity automation, and algorithmic trading
-
-🚀 Current Projects: Phishing detection AI, futures trading bot, and LLM attack surface analysis
-
-Join me in this evolving tech journey. Let's innovate, secure, and build the future.
-
-## Objective
-
-
-To leverage my expertise in cyber security, AI, and automation to create impactful tools and resources that enhance cybersecurity practices, streamline compliance, and provide actionable insights for businesses. Through hands-on projects, innovative solutions, and continuous learning, I aim to empower organizations to achieve resilience and scalability in their environments.
-
-## Skills
-
-
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| Privilege Escalation and Exploitation | <a href="https://github.com/EhmkeiLabs/Remote-and-Local-Exploitation-Lab">Remote & Local Exploitation Lab</a>|
-| Threat Intelligence Analysis         | <a href="https://github.com/EhmkeiLabs/Investigation-SOC141/tree/main">Investigation of SOC141 - Phishing URL Detected</a>|
-| Log analysis and traffic investigation.      | <a href="https://github.com/EhmkeiLabs/SOC166---Javascript-Code-Detected-in-Requested-URL">SOC166 Lab - JS Code Detected</a>|
-| Web Application Security Awareness                  | <a href="https://github.com/EhmkeiLabs/SOC168---Whoami-Command-Detected-in-Request-Body"> SOC168 - Command Injection Detected Lab</a>|
-| Digital Forensic Analysis            | <a href="https://github.com/EhmkeiLabs/IR-Procedures-Forensics-Analysis">Incident Response, Forensics, Analysis</a>|
-
-## Tools
-
-
-### Network
-<div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
 </div>
 
-### Endpoint
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
+---
+
+```
+> initializing profile...
+> loading modules: [cloud, security, ai, apps]
+> status: ready
+```
+
+## 🎯 What I'm Building
+
+- **☁️ Cloud Infrastructure** — AWS/Azure workloads with security-first IaC (Terraform, CloudFormation)
+- **🔐 Security Systems** — SIEM, vulnerability management, incident response automation
+- **🤖 AI/ML Pipelines** — Fraud detection, anomaly detection, data analysis workflows
+- **🚀 Full-Stack Apps** — APIs in Python/FastAPI, frontends in React/Next.js
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+**Cloud & DevOps**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+
+**Security**
+
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white)
+![Wazuh](https://img.shields.io/badge/Wazuh-3C99DC?style=flat-square&logo=wazuh&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+![Sentinel](https://img.shields.io/badge/Microsoft_Sentinel-0078D4?style=flat-square&logo=microsoft&logoColor=white)
+
+**Languages & Frameworks**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+
+**Data & AI**
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+
 </div>
 
-### SIEM
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=linktechlabs&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=linktechlabs&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=linktechlabs&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=C9D1D9" />
+
 </div>
 
-### Cloud
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Amazon%20AWS-232F3E?style=for-the-badge&logo=Amazon%20AWS&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+---
+
+## 🏆 Featured Projects
+
+| Project | Description | Tech |
+|---------|-------------|------|
+| [**AWS Fraud Detection**](https://github.com/LinkTechLabs/aws-fraud-detection-model) | ML-powered fraud detection with automated training & real-time inference | `Python` `AWS SageMaker` `Lambda` |
+| [**AWS S3 File Backup**](https://github.com/LinkTechLabs/aws-s3-file-backup) | Serverless backup system with S3 triggers and SNS notifications | `Python` `S3` `Lambda` `SNS` |
+| [**Voice Vault Note**](https://github.com/LinkTechLabs/Voice-Vault-Note) | Voice-powered note-taking application | `Python` `AI` |
+| [**Wazuh AWS Red/Blue Team**](https://github.com/LinkTechLabs/wazuh-aws-stratus-redteam-blueteam) | Cloud security monitoring with attack simulation | `Wazuh` `AWS` `Stratus Red Team` |
+| [**Malware Classification**](https://github.com/LinkTechLabs/Malware-Classification) | ML model for malware detection and classification | `Python` `Jupyter` `ML` |
+| [**IR & Forensics Lab**](https://github.com/LinkTechLabs/IR-Procedures-Forensics-Analysis) | Incident response procedures and digital forensics | `Forensics` `Windows` |
+
+---
+
+## 📜 Certifications
+
+<div align="center">
+
+[![PenTest+](https://img.shields.io/badge/-PenTest+-EA3C3C?style=for-the-badge&logo=comptia&logoColor=white)](https://www.credly.com/badges/bd1f80f9-e4dd-43cf-9e3b-6cf759ce6bf3/public_url)
+[![CySA+](https://img.shields.io/badge/-CySA+-0066CC?style=for-the-badge&logo=comptia&logoColor=white)](https://www.credly.com/badges/bd1f80f9-e4dd-43cf-9e3b-6cf759ce6bf3/public_url)
+[![Security+](https://img.shields.io/badge/-Security+-EA3C3C?style=for-the-badge&logo=comptia&logoColor=white)](https://www.credly.com/badges/4aea4bdc-a89c-41ee-b46b-36aa5225743a/public_url)
+[![Network+](https://img.shields.io/badge/-Network+-0066CC?style=for-the-badge&logo=comptia&logoColor=white)](https://www.credly.com/badges/7add24e6-8331-4224-94f8-a9140ca88451/public_url)
+[![A+](https://img.shields.io/badge/-A+-4D4D4D?style=for-the-badge&logo=comptia&logoColor=white)](#)
+
 </div>
 
-## Certifications
+---
 
-<div>
-<a href="https://www.credly.com/badges/bd1f80f9-e4dd-43cf-9e3b-6cf759ce6bf3/public_url" target="_blank"><img src="https://img.shields.io/badge/-PenTest+-red?style=for-the-badge&logo=CompTIA&logoColor=white" /></a>
-<a href="https://www.credly.com/badges/4aea4bdc-a89c-41ee-b46b-36aa5225743a/public_url" target="_blank"><img src="https://img.shields.io/badge/-Security+-red?style=for-the-badge&logo=CompTIA&logoColor=white" /></a>
-<a href="https://www.credly.com/badges/bd1f80f9-e4dd-43cf-9e3b-6cf759ce6bf3/public_url" target="_blank"><img src="https://img.shields.io/badge/-CySA+-blue?style=for-the-badge&logo=CompTIA&logoColor=white" /></a>
-<a href="https://www.credly.com/badges/7add24e6-8331-4224-94f8-a9140ca88451/public_url" target="_blank"><img src="https://img.shields.io/badge/-Network+-blue?style=for-the-badge&logo=CompTIA&logoColor=white" /></a>
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<div align="center">
+
+### 💬 Let's Connect
+
+*Open to cloud engineering, security, and full-stack opportunities.*
+
+[![Email](https://img.shields.io/badge/-contact@linktech.studio-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:contact@linktech.studio)
+
+---
+
+![Profile Views](https://komarev.com/ghpvc/?username=linktechlabs&color=58A6FF&style=flat-square&label=Profile+Views)
+
 </div>
-
-## Projects
-- <a href="https://github.com/EhmkeiLabs/Remote-and-Local-Exploitation-Lab">Remote & Local Exploitation Lab</a>
-- <a href="https://github.com/EhmkeiLabs/Investigation-SOC141">Investigation SOC141</a>
-- <a href="https://github.com/EhmkeiLabs/SOC166---Javascript-Code-Detected-in-Requested-URL">XSS Attack Mitigation</a>
-- <a href="https://github.com/EhmkeiLabs/SOC168---Whoami-Command-Detected-in-Request-Body">Command Injection Detection</a>
-- <a href="https://github.com/EhmkeiLabs/IR-Procedures-Forensics-Analysis">Incident Reponse, Forensics, Analysis</a>
