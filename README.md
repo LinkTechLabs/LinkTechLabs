@@ -71,10 +71,27 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=linktechlabs&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=linktechlabs&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=linktechlabs&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=linktechlabs&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=linktechlabs&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+</picture>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=linktechlabs&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=C9D1D9" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=linktechlabs&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=linktechlabs&layout=compact&theme=default&hide_border=true&langs_count=8" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=linktechlabs&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Top Languages" />
+</picture>
+
+</div>
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=linktechlabs&theme=github-dark-blue&hide_border=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=linktechlabs&theme=default&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=linktechlabs&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
+</picture>
 
 </div>
 
@@ -84,12 +101,12 @@
 
 | Project | Description | Tech |
 |---------|-------------|------|
+| [**Prediction Market Analyzer**](https://github.com/LinkTechLabs/prediction-market-analyzer) | Full-stack app aggregating prediction market data from Polymarket with real-time pricing | `FastAPI` `Next.js` `PostgreSQL` `Supabase` |
 | [**AWS Fraud Detection**](https://github.com/LinkTechLabs/aws-fraud-detection-model) | ML-powered fraud detection with automated training & real-time inference | `Python` `AWS SageMaker` `Lambda` |
 | [**AWS S3 File Backup**](https://github.com/LinkTechLabs/aws-s3-file-backup) | Serverless backup system with S3 triggers and SNS notifications | `Python` `S3` `Lambda` `SNS` |
 | [**Voice Vault Note**](https://github.com/LinkTechLabs/Voice-Vault-Note) | Voice-powered note-taking application | `Python` `AI` |
 | [**Wazuh AWS Red/Blue Team**](https://github.com/LinkTechLabs/wazuh-aws-stratus-redteam-blueteam) | Cloud security monitoring with attack simulation | `Wazuh` `AWS` `Stratus Red Team` |
 | [**Malware Classification**](https://github.com/LinkTechLabs/Malware-Classification) | ML model for malware detection and classification | `Python` `Jupyter` `ML` |
-| [**IR & Forensics Lab**](https://github.com/LinkTechLabs/IR-Procedures-Forensics-Analysis) | Incident response procedures and digital forensics | `Forensics` `Windows` |
 
 ---
 
