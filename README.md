@@ -70,15 +70,21 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LinkTechLabs&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="GitHub Stats" />
+  <a href="https://github.com/LinkTechLabs">
+    <img src="https://github-readme-stats.vercel.app/api?username=LinkTechLabs&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&cache_seconds=86400" alt="GitHub Stats" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LinkTechLabs&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" alt="Top Languages" />
+  <a href="https://github.com/LinkTechLabs">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LinkTechLabs&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8&cache_seconds=86400" alt="Top Languages" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LinkTechLabs&theme=radical&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6b6b&currStreakLabel=c9d1d9&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" alt="GitHub Streak" />
+  <a href="https://github.com/LinkTechLabs">
+    <img src="https://streak-stats.demolab.com/?user=LinkTechLabs&theme=tokyonight&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6b6b&currStreakLabel=c9d1d9&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" alt="GitHub Streak" />
+  </a>
 </p>
 
 ---
@@ -116,7 +122,7 @@
 
 *Open to cloud engineering, security, and full-stack opportunities.*
 
-[![Email](https://img.shields.io/badge/-contact@linktech.studio-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:contact@linktech.studio)
+[![Email](https://img.shields.io/badge/-me@menelik.dev-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:me@menelik.dev)
 
 ---
 
