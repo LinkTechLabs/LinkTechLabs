@@ -8,7 +8,7 @@
 *I design systems that are secure by default and built to scale.*
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/menelikr)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-FF6B6B?style=for-the-badge&logo=safari&logoColor=white)](https://resume.linktech.studio)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-FF6B6B?style=for-the-badge&logo=safari&logoColor=white)](https://menelik.dev)
 [![Medium](https://img.shields.io/badge/-Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@menox)
 
 </div>
