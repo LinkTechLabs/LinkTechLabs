@@ -83,7 +83,7 @@
 
 <p align="center">
   <a href="https://github.com/LinkTechLabs">
-    <img src="https://streak-stats.demolab.com/?user=LinkTechLabs&theme=tokyonight&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6b6b&currStreakLabel=c9d1d9&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com/?user=LinkTechLabs&theme=tokyonight&hide_border=true&background=0d1117&dates=58a6ff" alt="GitHub Streak" />
   </a>
 </p>
 
@@ -93,6 +93,7 @@
 
 | Project | Description | Tech |
 |---------|-------------|------|
+| [**The Secure Vault**](https://github.com/LinkTechLabs/The-Secure-Vault) | Terraform deployment of an encrypted S3 bucket and EC2 instance with strict IP access control | `Terraform` `AWS` `S3` `EC2` |
 | [**Prediction Market Analyzer**](https://github.com/LinkTechLabs/prediction-market-analyzer) | Full-stack app aggregating prediction market data from Polymarket with real-time pricing | `FastAPI` `Next.js` `PostgreSQL` `Supabase` |
 | [**AWS Fraud Detection**](https://github.com/LinkTechLabs/aws-fraud-detection-model) | ML-powered fraud detection with automated training & real-time inference | `Python` `AWS SageMaker` `Lambda` |
 | [**AWS S3 File Backup**](https://github.com/LinkTechLabs/aws-s3-file-backup) | Serverless backup system with S3 triggers and SNS notifications | `Python` `S3` `Lambda` `SNS` |
