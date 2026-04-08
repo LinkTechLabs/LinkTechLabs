@@ -4,7 +4,7 @@
 
 ### `Cloud` · `Security` · `AI` · `Apps`
 
-*Aspiring cloud engineer with a strong cybersecurity foundation, exploring AI, data analysis, and full-stack development.*  
+* Cloud engineer with a strong cybersecurity foundation, exploring AI, data analysis, and full-stack development.*  
 *I design systems that are secure by default and built to scale.*
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/menelikr)
